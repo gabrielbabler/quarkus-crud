@@ -1,0 +1,4 @@
+product:
+  - ID: 1
+    NAME: Product One
+    VALUE: 12345
